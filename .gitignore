@@ -23,6 +23,10 @@ vite.config.ts.timestamp-*
 
 # lock-file
 pnpm-lock.yaml
+package-lock.json
 
 # IDE
 /.vscode
+
+# Logs
+npm_output.log
