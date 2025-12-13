@@ -1,0 +1,17 @@
+
+> cnotes@2.6.5 dev
+> vite dev --port 3000
+
+
+  VITE v7.2.7  ready in 2575 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: use --host to expose
+Using vars defined in .env
+2:08:05 PM [vite-plugin-svelte] src/routes/+layout.svelte:22:6 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+https://svelte.dev/e/state_referenced_locally
+2:08:05 PM [vite-plugin-svelte] src/routes/+layout.svelte:22:23 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+https://svelte.dev/e/state_referenced_locally
+/*! 🌼 daisyUI 5.5.13 */
+2:08:24 PM [vite] .env changed, restarting server...
+2:08:24 PM [vite] server restarted.
