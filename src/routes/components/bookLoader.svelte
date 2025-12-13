@@ -11,7 +11,6 @@
 		width: 64px;
 		height: 40px;
 		position: relative;
-		perspective: 150px;
 	}
 	.page {
 		width: 50%;
@@ -37,10 +36,6 @@
 		0% {
 			transform: rotateY(0deg);
 		}
-		20% {
-			transform: rotateY(-160deg);
-		}
-		50%,
 		100% {
 			transform: rotateY(-180deg);
 		}
